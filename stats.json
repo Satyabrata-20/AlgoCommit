@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-05-09",
+  "lastSyncDate": "2026-06-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Kth_Smallest": true
+    "GeeksForGeeks_Kth_Smallest": true,
+    "GeeksForGeeks_Minimum_Jumps": true
   },
   "activityHistory": {
-    "2026-05-09": 1
+    "2026-05-09": 1,
+    "2026-06-29": 1
   },
   "todayProblems": [
-    "Kth Smallest"
+    "Minimum Jumps"
   ]
 }
